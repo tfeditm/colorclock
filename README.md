@@ -6,6 +6,9 @@ The right time on slowly variable color background.
 
 * [Jsbin](https://jsbin.com/?html,output) - Collaborative web development debugging tool
 * [Google Fonts](https://fonts.google.com/) - High-quality fonts to use on your web site
+* HTML
+* CSS
+* JavaScript
 
 # The Site URL
 
